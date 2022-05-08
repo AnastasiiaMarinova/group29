@@ -1,5 +1,6 @@
 1. samsung
 2. iphonei
 3. redmy
-4. iphone
+4. redmy
+5 xiaomi
 
